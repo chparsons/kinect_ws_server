@@ -1,0 +1,150 @@
+// !$*UTF8*$!
+{
+	1231794715C1F522001A7586 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E4B69E1E0A3A1BDC003C02F2 /* testApp.cpp */;
+		name = "testApp.cpp: 193";
+		rLen = 0;
+		rLoc = 3953;
+		rType = 0;
+		vrLen = 0;
+		vrLoc = 0;
+	};
+	1235586A15C2040300529FD7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E4B69E1E0A3A1BDC003C02F2 /* testApp.cpp */;
+		name = "testApp.cpp: 193";
+		rLen = 0;
+		rLoc = 3948;
+		rType = 0;
+		vrLen = 0;
+		vrLoc = 0;
+	};
+	1286343115BEDA0F008DFE4F /* Client.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {0.001, 1106}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 0}";
+		};
+	};
+	1286363215BEFC32008DFE4F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E4B69E1F0A3A1BDC003C02F2 /* testApp.h */;
+		name = "testApp.h: 4";
+		rLen = 23;
+		rLoc = 34;
+		rType = 0;
+		vrLen = 0;
+		vrLoc = 0;
+	};
+	12FAA71315B9B694003E1D0B /* kinect_ws_server */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = kinect_ws_server;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	12FAA73B15B9B697003E1D0B /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	12FAA73C15B9B697003E1D0B /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	E4B69B4C0A3A1720003C02F2 /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 12FAA71315B9B694003E1D0B /* kinect_ws_server */;
+		activeTarget = E4B69B5A0A3A1756003C02F2 /* kinect_ws_server */;
+		addToTargets = (
+			E4B69B5A0A3A1756003C02F2 /* kinect_ws_server */,
+		);
+		codeSenseManager = 12FAA73C15B9B697003E1D0B /* Code sense */;
+		executables = (
+			12FAA71315B9B694003E1D0B /* kinect_ws_server */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					10,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 365033283;
+			PBXWorkspaceStateSaveDate = 365033283;
+		};
+		perUserProjectItems = {
+			1231794715C1F522001A7586 /* PBXTextBookmark */ = 1231794715C1F522001A7586 /* PBXTextBookmark */;
+			1235586A15C2040300529FD7 /* PBXTextBookmark */ = 1235586A15C2040300529FD7 /* PBXTextBookmark */;
+			1286363215BEFC32008DFE4F /* PBXTextBookmark */ = 1286363215BEFC32008DFE4F /* PBXTextBookmark */;
+		};
+		sourceControlManager = 12FAA73B15B9B697003E1D0B /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	E4B69B5A0A3A1756003C02F2 /* kinect_ws_server */ = {
+		activeExec = 0;
+		executables = (
+			12FAA71315B9B694003E1D0B /* kinect_ws_server */,
+		);
+	};
+	E4B69E1E0A3A1BDC003C02F2 /* testApp.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {12, 2786}}";
+			sepNavSelRange = "{3948, 0}";
+			sepNavVisRange = "{0, 0}";
+		};
+	};
+	E4B69E1F0A3A1BDC003C02F2 /* testApp.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {166, 546}}";
+			sepNavSelRange = "{34, 23}";
+			sepNavVisRange = "{0, 0}";
+		};
+	};
+}
