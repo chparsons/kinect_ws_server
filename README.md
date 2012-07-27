@@ -9,5 +9,7 @@ dependencies
 of_app: 
 
 https://github.com/openframeworks/openFrameworks/tree/0071
+
 https://github.com/ofTheo/ofxKinect
+
 https://github.com/labatrockwell/ofxLibwebsockets
